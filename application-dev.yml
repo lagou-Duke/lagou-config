@@ -1,5 +1,5 @@
 
-user:
-    duke
-name:
-    lagou-Duke
+mysql:
+    user: duke
+person:
+    name: lagou-Duke
